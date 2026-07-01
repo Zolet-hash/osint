@@ -36,8 +36,8 @@
   dig example.com
   dig example.com MX # Query mail exchange records
   dig example.com TXT # query text records(SPF, DKIM etc)
-  dig example.com NS # query name srver records
-  dig @8.8.8.8 example.com 
+  dig example.com NS
+  dig @8.8.8.8 example.com
   # DNS enumeration reveals infratsructure and security configurations
   # different record types provides different intellignet about the target 
   # different DNS enumeration can bypass filtering or get different results
