@@ -22,5 +22,6 @@
   h8mail -h
   # h8mail combines email discovery with breach checking
   # password breaches reveals compromised credentials
-  # Email enumeration helps 
+  # Email enumeration helps with social engineering
+  
   ```
