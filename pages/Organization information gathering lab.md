@@ -38,5 +38,6 @@
   dig example.com TXT
   dig example.com NS
   dig @8.8.8.8 example.com
+  # dig enumeration reveals infratsructure and security configurations
   
   ```
