@@ -38,7 +38,7 @@
   dig example.com TXT
   dig example.com NS
   dig @8.8.8.8 example.com
-  # dig enumeration reveals infratsructure and security configurations
+  # DNS enumeration reveals infratsructure and security configurations
   # different record types provides different intellignet about the target 
-  
+  # different DNS enumeration can bypass filtering or get different results
   ```
