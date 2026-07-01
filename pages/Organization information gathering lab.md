@@ -29,4 +29,4 @@
   ```
 -
 - # Asset discovery lab
-- Discover
+- Discover and enumerate assets using DNS techniques, subdomain enumeration and se
