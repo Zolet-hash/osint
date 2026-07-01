@@ -34,7 +34,7 @@
 - using dig to enumerate A, MX, TXT and NS records for domain reconnaissance
 - ```shell
   dig example.com
-  dig example.com MX
+  dig example.com MX # Query mail exchange records
   dig example.com TXT
   dig example.com NS
   dig @8.8.8.8 example.com
