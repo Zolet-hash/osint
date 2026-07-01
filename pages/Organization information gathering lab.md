@@ -17,5 +17,8 @@
   h8mail -t admin@example.com
   h8mail -t example.com -o result.txt
   h8mail -t example.com -j
+  h8mail -t example.com -v
+  h8mail -t example.com -q
+  h8mail -h
   
   ```
