@@ -16,9 +16,9 @@
   h8mail -t example.com # 
   h8mail -t admin@example.com
   h8mail -t example.com -o result.txt
-  h8mail -t example.com -j
-  h8mail -t example.com -v
-  h8mail -t example.com -q
+  h8mail -t example.com -j # otput in JSON format
+  h8mail -t example.com -v # verbous mode
+  h8mail -t example.com -q # quiet mode
   h8mail -h
   
   ```
