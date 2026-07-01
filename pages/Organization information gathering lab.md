@@ -35,7 +35,7 @@
 - ```shell
   dig example.com
   dig example.com MX # Query mail exchange records
-  dig example.com TXT
+  dig example.com TXT # query text records()
   dig example.com NS
   dig @8.8.8.8 example.com
   # DNS enumeration reveals infratsructure and security configurations
