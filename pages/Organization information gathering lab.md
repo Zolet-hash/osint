@@ -23,5 +23,5 @@
   # h8mail combines email discovery with breach checking
   # password breaches reveals compromised credentials
   # Email enumeration helps with social engineering
-  
+  # JSON output helps intergration with other tools
   ```
