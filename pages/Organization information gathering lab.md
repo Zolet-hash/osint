@@ -13,6 +13,7 @@
 -
 - ## h8mail
 - Advanced email checking and breach checking with h8mail
+- gather organization data including email and breached data
 - ```shell
   h8mail -t example.com # Email enumeration for domain
   h8mail -t admin@example.com # check specific email for breaches
