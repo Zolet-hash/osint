@@ -12,4 +12,6 @@
 -
 - ## h8mail
 - Advanced email checking and breach checking with h8mail
--
+- ```shell
+  h8mail -t example.com # 
+  ```
