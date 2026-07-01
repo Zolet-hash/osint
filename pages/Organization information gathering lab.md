@@ -33,10 +33,10 @@
 - ## DNS with dig
 - using dig to enumerate A, MX, TXT and NS records for domain reconnaissance
 - ```shell
-  dig example.com
+  dig example.com # query A records default
   dig example.com MX # Query mail exchange records
   dig example.com TXT # query text records(SPF, DKIM etc)
-  dig example.com NS
+  dig example.com NS # query name server records
   dig @8.8.8.8 example.com
   # DNS enumeration reveals infratsructure and security configurations
   # different record types provides different intellignet about the target 
