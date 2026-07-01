@@ -21,5 +21,6 @@
   h8mail -t example.com -q # quiet mode
   h8mail -h
   # h8mail combines email discovery with breach checking
-  # password breaches reveals 
+  # password breaches reveals compromised credentials
+  # Email enumeration helps 
   ```
