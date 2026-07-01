@@ -11,4 +11,5 @@
   ```
 -
 - ## h8mail
-- Advanced email checking and breach
+- Advanced email checking and breach checking with h8mail
+-
