@@ -1,5 +1,6 @@
 ## theharvester
 - Discover email addresses and subdomains using theharvester
+- gather organization data including email and breached data
 - ```shell
   theharvester -d example.com -b all #search all sources
   theharvester -d example.com -b google #search google only
