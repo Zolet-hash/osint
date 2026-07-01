@@ -31,4 +31,7 @@
 - # Asset discovery lab
 - Discover and enumerate assets using DNS techniques, subdomain enumeration and search engines
 - ## DNS with dig
-- using dig to enumerate A, MX, TXT and NS records for domain
+- using dig to enumerate A, MX, TXT and NS records for domain reconnaissance
+- ```shell
+  dig example.com
+  ```
