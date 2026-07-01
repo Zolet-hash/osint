@@ -20,5 +20,6 @@
   h8mail -t example.com -v # verbous mode
   h8mail -t example.com -q # quiet mode
   h8mail -h
-  # 
+  # h8mail combines email discovery with breach checking
+  # password breaches reveals 
   ```
