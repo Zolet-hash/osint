@@ -30,4 +30,5 @@
 -
 - # Asset discovery lab
 - Discover and enumerate assets using DNS techniques, subdomain enumeration and search engines
+- ## DNS with dig
 -
