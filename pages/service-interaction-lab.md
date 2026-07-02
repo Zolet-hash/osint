@@ -1,0 +1,6 @@
+- **Basic Connectivity**
+- **Banner Grabbing**
+- **Basic HTTP Requests**
+- **HTTP Header Analysis**
+- **SSL/TLS Certificates**
+- **Advanced CURL**
